@@ -1,0 +1,4 @@
+.calculator-keys {
+    display: grid;
+    flex-wrap: wrap;
+}
